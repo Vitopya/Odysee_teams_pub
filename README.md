@@ -238,7 +238,7 @@ Informations supplémentaires avant de commencer cette étape : [Documentation M
 ![32](https://user-images.githubusercontent.com/57418005/148472735-2d5f1d1b-6bc7-46b6-97d3-b8b56f041b17.png)
 
 2. Sélectionnez « Serveur unique ».
-![33]("https://user-images.githubusercontent.com/57418005/148472748-8004f486-a0bf-46ef-b4df-dd7aa4b99fec.png)
+![33](https://user-images.githubusercontent.com/57418005/148472748-8004f486-a0bf-46ef-b4df-dd7aa4b99fec.png)
 
 3. Sur la page qui s&#39;est ouverte, renseignez le nom du serveur désiré, ici « odyssee-postgres », son emplacement, sa version et le « calcul + stockage » qui convient le mieux à vos besoins.
 
