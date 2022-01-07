@@ -246,7 +246,7 @@ Additional information before you begin this stage: [Microsoft documents](https:
 
 2. Select &quot;Single server&quot;.
 
-![33]("https://user-images.githubusercontent.com/57418005/148472748-8004f486-a0bf-46ef-b4df-dd7aa4b99fec.png)
+![33](https://user-images.githubusercontent.com/57418005/148472748-8004f486-a0bf-46ef-b4df-dd7aa4b99fec.png)
 
 3. On the page that opened, enter the desired server name, here &quot;odyssee-postgres&quot;, the location, the version and the &quot;compute + storage&quot; that best suits your requirements.
 
