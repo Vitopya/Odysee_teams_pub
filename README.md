@@ -268,6 +268,7 @@ Informations supplémentaires avant de commencer cette étape : [Documentation M
 ![40](https://user-images.githubusercontent.com/57418005/148472909-a958919d-e96c-4ac6-b5dc-d76f2fc83b74.png)
 
 10. Lancez **pgAdmin**.
+
 ![41](https://user-images.githubusercontent.com/57418005/148472942-e99799d6-8f01-480a-9783-8c9c31375aac.png)
 
 11. Connectez-vous au serveur Postgres que vous avez créé précédemment sur Azure. Pour cela, faites un clic droit sur « Servers » puis « Create » puis « Server ».
