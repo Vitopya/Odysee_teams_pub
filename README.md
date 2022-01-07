@@ -511,7 +511,7 @@ Le Maître du jeu peut également être responsable de la partie communication e
 
 L&#39;onglet « Cockpit » est votre tableau de bord d&#39;arrivée lorsque vous lancez le jeu. L&#39;onglet « Planning » vous permet d&#39;activer toutes les missions, mais également de récupérer les templates d&#39;emails, réseaux sociaux et d&#39;envoyer des push notifications. L&#39;onglet « Classements » vous permet de consulter en temps réel les statistiques de jeu et les classements de votre organisation. Enfin, dans l&#39;onglet « Outillage », vous pourrez configurer le logo de votre organisation et arrêter le jeu à tout moment via la fonctionnalité « arrêt du jeu ».
 
-Activer le premier module de questions
+## Activer le premier module de questions
 
 Vous avez désormais accès à votre interface de Maître du jeu et les Explorateur·ice·s ont accès au jeu. Cependant, tant qu&#39;aucun des modules de questions n&#39;est activé, les joueur·euse·s ne pourront pas jouer.
 
