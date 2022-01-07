@@ -1,4 +1,4 @@
-# L'Odyssée de Teams / Teams Odyssey
+# Microsoft - L'Odyssée de Teams / Teams Odyssey
 
 ## Bienvenue sur le Git officiel de L'Odyssée de Teams.
 
